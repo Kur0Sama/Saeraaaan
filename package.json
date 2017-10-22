@@ -1,0 +1,16 @@
+{
+  "name": "saeraan",
+  "version": "1.0.1",
+  "description": "The new version of Saeraan.js",
+  "main": "client",
+  "scripts": {
+    "client": "node client"
+  },
+  "author": "Kur0Sama",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.2.0",
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security"
+  }
+}
